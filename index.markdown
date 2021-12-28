@@ -2,5 +2,18 @@
 title: Home|Understanding Transgender Identity
 layout: default
 ---
-I don't know why the index.html keeps changing.
 
+<div id="content">
+    <h2 id= "subheader"> What is Transgender? </h2>
+    <p>XXX</p>
+    <h2 id= "subheader"> Our Aim </h2>
+    <p>XXX</p>
+</div>
+        
+<div id="card">
+    <h2 id= "subheader"> Latest News </h2>
+</div>
+
+<div id="recommendation">
+    <h2 id= "subheader"> Recommended Films </h2>
+</div>
