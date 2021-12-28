@@ -1,3 +1,8 @@
+/* box-sizing makes sure that the border and padding are included in the total width of the element */
+* {
+    box-sizing: border-box;
+  }
+
 body {
     background-color: #F8EEE7;
     font-family: sans-serif;
