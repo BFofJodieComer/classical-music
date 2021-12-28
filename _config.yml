@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Understanding Transgender Identity
+email: k21052208@kcl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a Transgender website covering the most emergent issues around transgender group. It aims at establishing a fundamental understanding to the public about this minority group, creating a sense of inclusion for transgender group, and providing researchers with controversial dilemmas and debates for research purposes. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://transgender.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -33,6 +31,8 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+collection:
+  - exhibits
 
 # Exclude from processing.
 # The following items will not be processed, by default.
