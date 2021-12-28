@@ -1,9 +1,6 @@
 body {
     background-color: #F8EEE7;
     font-family: sans-serif;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
 }
 
 p {
@@ -21,6 +18,9 @@ nav {
 
 a:link {
     color: black;
+    float: left;
+    display: block;
+    text-align: center;
 }
 
 a:visited {
