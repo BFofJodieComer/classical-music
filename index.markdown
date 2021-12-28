@@ -1,5 +1,7 @@
 ---
-layout: home
+title: Home|Understanding Transgender Identity
+layout: default
 ---
 
-This markdown is useless unless there is a page and a navibutton named "index".
+<h1 id= "heading"> Understanding Transgender Identity </h1>
+
