@@ -21,7 +21,6 @@
 title: Understanding Transgender Identity
 email: k21052208@kcl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a Transgender website covering the most emergent issues around transgender group. It aims at establishing a fundamental understanding to the public about this minority group, creating a sense of inclusion for transgender group, and providing researchers with controversial dilemmas and debates for research purposes. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://transgender.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
